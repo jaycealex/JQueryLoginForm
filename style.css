@@ -1,0 +1,22 @@
+h2{
+    text-align:center;
+    text-transform: uppercase;
+    margin-bottom: 30px;
+    color:rgb(93, 13, 253);
+  
+}
+.container{
+    width:40em;
+    padding:40px;
+}
+
+body{
+    background-image: url('background.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Nunito Sans', sans-serif;
+}
+label{
+    font-weight: bold;
+    padding:5px;
+}
